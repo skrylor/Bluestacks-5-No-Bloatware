@@ -1,4 +1,4 @@
-# BlueStacks5 Simple Installer
+# BlueStacks 5 Simple Installer
 
 A straightforward and user-friendly installer for **BlueStacks 5.2.100.1047** (2021), released before the introduction of BlueStacks X. This installer ensures a clean installation without any bloatware, providing an optimized experience for users who prefer the classic version of BlueStacks 5.
 
